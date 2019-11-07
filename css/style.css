@@ -1,0 +1,35 @@
+body{
+    
+    background: #555;
+}
+h1{
+    color: #fff;
+    text-align: center;
+} 
+header {
+    text-align: center;
+    background: #000;
+}
+.inside {
+    background-image:url(/media/Header\ pic.jpg);
+   
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%; 
+    border: 2px solid #000;
+    text-align: center;
+    margin-top: 100px;
+    padding-bottom: 5px;
+    padding-top: 125px;
+}
+.inside label {
+    color: #ccc;
+    font-size: 20px;
+}
+.inside h2 {
+    color: #fff;
+    text-transform: capitalize;
+}
+.inside a {
+    display: none;
+
+}
